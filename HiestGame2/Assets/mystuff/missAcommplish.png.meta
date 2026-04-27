@@ -1,0 +1,2441 @@
+fileFormatVersion: 2
+guid: c444ff48b71ed0d46ad2271dc3f5c1cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4090197716619337858
+    second: missAcommplish_0
+  - first:
+      213: 2487477172352368238
+    second: missAcommplish_1
+  - first:
+      213: 1539065637785586033
+    second: missAcommplish_2
+  - first:
+      213: 5850114402047444197
+    second: missAcommplish_3
+  - first:
+      213: 720969604679298725
+    second: missAcommplish_4
+  - first:
+      213: -6288876526229376582
+    second: missAcommplish_5
+  - first:
+      213: -5929437352923674218
+    second: missAcommplish_6
+  - first:
+      213: -8794986056198545330
+    second: missAcommplish_7
+  - first:
+      213: -8314603840153677959
+    second: missAcommplish_8
+  - first:
+      213: -9020440120049269859
+    second: missAcommplish_9
+  - first:
+      213: 7184821225178012640
+    second: missAcommplish_10
+  - first:
+      213: 1313800669038221895
+    second: missAcommplish_11
+  - first:
+      213: 2562861273532104597
+    second: missAcommplish_12
+  - first:
+      213: 5247119809521538321
+    second: missAcommplish_13
+  - first:
+      213: -7673585416668818747
+    second: missAcommplish_14
+  - first:
+      213: 2412404175126527468
+    second: missAcommplish_15
+  - first:
+      213: -325037136804342850
+    second: missAcommplish_16
+  - first:
+      213: -9048214393030969521
+    second: missAcommplish_17
+  - first:
+      213: -8741029546225190612
+    second: missAcommplish_18
+  - first:
+      213: 2635934196133434168
+    second: missAcommplish_19
+  - first:
+      213: -4786553201713124518
+    second: missAcommplish_20
+  - first:
+      213: 6271735949206847697
+    second: missAcommplish_21
+  - first:
+      213: 339894527621830510
+    second: missAcommplish_22
+  - first:
+      213: 4537361087582071394
+    second: missAcommplish_23
+  - first:
+      213: -5129580340263828451
+    second: missAcommplish_24
+  - first:
+      213: -5797416968126579878
+    second: missAcommplish_25
+  - first:
+      213: 379980948909228904
+    second: missAcommplish_26
+  - first:
+      213: -1837238603154988914
+    second: missAcommplish_27
+  - first:
+      213: -8896957423658853266
+    second: missAcommplish_28
+  - first:
+      213: 1043303244185299572
+    second: missAcommplish_29
+  - first:
+      213: 828181358010676869
+    second: missAcommplish_30
+  - first:
+      213: 9065987300870028266
+    second: missAcommplish_31
+  - first:
+      213: 7845890138317414974
+    second: missAcommplish_32
+  - first:
+      213: 2993824313891146019
+    second: missAcommplish_33
+  - first:
+      213: -1005903609499077225
+    second: missAcommplish_34
+  - first:
+      213: 4328418397227251765
+    second: missAcommplish_35
+  - first:
+      213: 6947482017360188144
+    second: missAcommplish_36
+  - first:
+      213: 4840237616866599028
+    second: missAcommplish_37
+  - first:
+      213: 2711152637932257567
+    second: missAcommplish_38
+  - first:
+      213: 8128142389665588833
+    second: missAcommplish_39
+  - first:
+      213: -5685780096864127060
+    second: missAcommplish_40
+  - first:
+      213: -470941568485850581
+    second: missAcommplish_41
+  - first:
+      213: 6430595413495754444
+    second: missAcommplish_42
+  - first:
+      213: -7819902383985768483
+    second: missAcommplish_43
+  - first:
+      213: 5851735562840913661
+    second: missAcommplish_44
+  - first:
+      213: 3712813360313609509
+    second: missAcommplish_45
+  - first:
+      213: -4571913976503271778
+    second: missAcommplish_46
+  - first:
+      213: -1799755718958659345
+    second: missAcommplish_47
+  - first:
+      213: 2775313998087580245
+    second: missAcommplish_48
+  - first:
+      213: -7285967842934766544
+    second: missAcommplish_49
+  - first:
+      213: 7221425877319479163
+    second: missAcommplish_50
+  - first:
+      213: 6514396348974653709
+    second: missAcommplish_51
+  - first:
+      213: -967115376696347344
+    second: missAcommplish_52
+  - first:
+      213: -7471465006872972939
+    second: missAcommplish_53
+  - first:
+      213: -938816570317622595
+    second: missAcommplish_54
+  - first:
+      213: 6908617627211130796
+    second: missAcommplish_55
+  - first:
+      213: -5663435449704519090
+    second: missAcommplish_56
+  - first:
+      213: -6564574997842713199
+    second: missAcommplish_57
+  - first:
+      213: 9210330110164586680
+    second: missAcommplish_58
+  - first:
+      213: 2195147097113405133
+    second: missAcommplish_59
+  - first:
+      213: -8247401467714715358
+    second: missAcommplish_60
+  - first:
+      213: -3332520528108247639
+    second: missAcommplish_61
+  - first:
+      213: 857231734191323865
+    second: missAcommplish_62
+  - first:
+      213: 2275369675831221540
+    second: missAcommplish_63
+  - first:
+      213: 8283056081852028404
+    second: missAcommplish_64
+  - first:
+      213: 3533096810603825175
+    second: missAcommplish_65
+  - first:
+      213: 6252419521881781256
+    second: missAcommplish_66
+  - first:
+      213: -7807892110959871426
+    second: missAcommplish_67
+  - first:
+      213: 1989662446152904560
+    second: missAcommplish_68
+  - first:
+      213: -1100978868898551269
+    second: missAcommplish_69
+  - first:
+      213: -6933587499881165287
+    second: missAcommplish_70
+  - first:
+      213: -396692636705583212
+    second: missAcommplish_71
+  - first:
+      213: 8169522711349795721
+    second: missAcommplish_72
+  - first:
+      213: -1556588267473388949
+    second: missAcommplish_73
+  - first:
+      213: 4080786015521679566
+    second: missAcommplish_74
+  - first:
+      213: 1831768666035222212
+    second: missAcommplish_75
+  - first:
+      213: -4643168010948171341
+    second: missAcommplish_76
+  - first:
+      213: -6063421442863951353
+    second: missAcommplish_77
+  - first:
+      213: 472609464486300045
+    second: missAcommplish_78
+  - first:
+      213: 2029989118101570877
+    second: missAcommplish_79
+  - first:
+      213: 6913367935703255388
+    second: missAcommplish_80
+  - first:
+      213: 7277239783801479481
+    second: missAcommplish_81
+  - first:
+      213: -5079076789014534765
+    second: missAcommplish_82
+  - first:
+      213: 9121385510580408969
+    second: missAcommplish_83
+  - first:
+      213: -6408651565185696415
+    second: missAcommplish_84
+  - first:
+      213: 3958741399646010760
+    second: missAcommplish_85
+  - first:
+      213: 4986157170509591666
+    second: missAcommplish_86
+  - first:
+      213: 1908147446891940038
+    second: missAcommplish_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: missAcommplish_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1471
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280a538072d43c830800000000000000
+      internalID: 4090197716619337858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 277
+        width: 691
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 34}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eb4fc1f4b458220800000000000000
+      internalID: 2487477172352368238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1502
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17948321b0cdb5510800000000000000
+      internalID: 1539065637785586033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1491
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e44f6dad08cf2150800000000000000
+      internalID: 5850114402047444197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1443
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae63cc1906610a00800000000000000
+      internalID: 720969604679298725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1351
+        width: 98
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab13ec98e1c69b8a0800000000000000
+      internalID: -6288876526229376582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_6
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1471
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6994d0d942866bda0800000000000000
+      internalID: -5929437352923674218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_7
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1513
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40a5cb97cee1f580800000000000000
+      internalID: -8794986056198545330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1409
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f8a8b2cd79c9c80800000000000000
+      internalID: -8314603840153677959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_9
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1426
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9308cec085f0d280800000000000000
+      internalID: -9020440120049269859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb1c6566dc95b360800000000000000
+      internalID: 7184821225178012640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1375
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a91b76fbe8b3210800000000000000
+      internalID: 1313800669038221895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_12
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1403
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f7c79efbc119320800000000000000
+      internalID: 2562861273532104597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1346
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11552749aa381d840800000000000000
+      internalID: 5247119809521538321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_14
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1327
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c256dd48b2f18590800000000000000
+      internalID: -7673585416668818747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_15
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1369
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedf519d0d49a7120800000000000000
+      internalID: 2412404175126527468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1351
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb397f9327c3d7bf0800000000000000
+      internalID: -325037136804342850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_17
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47ffc3f2f84e6280800000000000000
+      internalID: -9048214393030969521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_18
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29bd0e80ff91b680800000000000000
+      internalID: -8741029546225190612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1039
+        width: 100
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83396d38f28b49420800000000000000
+      internalID: 2635934196133434168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_20
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1275
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b6169293fb29db0800000000000000
+      internalID: -4786553201713124518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d08581ed9ea90750800000000000000
+      internalID: 6271735949206847697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1205
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e679ff3a54c87b400800000000000000
+      internalID: 339894527621830510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_23
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1207
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a62038ed1f7fe30800000000000000
+      internalID: 4537361087582071394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_24
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1115
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d144fb3bbd110d8b0800000000000000
+      internalID: -5129580340263828451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_25
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1170
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b3ef7cbff6b8fa0800000000000000
+      internalID: -5797416968126579878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1158
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8638629e8a6f54500800000000000000
+      internalID: 379980948909228904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_27
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1123
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80ef4b7931d086e0800000000000000
+      internalID: -1837238603154988914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1109
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c1a0d7c58a78480800000000000000
+      internalID: -8896957423658853266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_29
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1099
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a6daed5ce8a7e00800000000000000
+      internalID: 1043303244185299572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586b3d5ae8a4e7b00800000000000000
+      internalID: 828181358010676869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_31
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1075
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb7f8e9a6bd0dd70800000000000000
+      internalID: 9065987300870028266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_32
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1050
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e326621f28332ec60800000000000000
+      internalID: 7845890138317414974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_33
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1032
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329c86df9533c8920800000000000000
+      internalID: 2993824313891146019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79536852fff4a02f0800000000000000
+      internalID: -1005903609499077225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 747
+        width: 729
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538fefd6991a11c30800000000000000
+      internalID: 4328418397227251765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_36
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 949
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f21b20e51a6a6060800000000000000
+      internalID: 6947482017360188144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_37
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 994
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47021d5c77afb2340800000000000000
+      internalID: 4840237616866599028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_38
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 943
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11c0dbb5f2ff9520800000000000000
+      internalID: 2711152637932257567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_39
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 919
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166efcb4076fcc070800000000000000
+      internalID: 8128142389665588833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_40
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 711
+        width: 19
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca77d6f502d0811b0800000000000000
+      internalID: -5685780096864127060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_41
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 877
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b228f6c7321e679f0800000000000000
+      internalID: -470941568485850581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_42
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 627
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceaba335701e3950800000000000000
+      internalID: 6430595413495754444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_43
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 663
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd74c40a6302a7390800000000000000
+      internalID: -7819902383985768483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_44
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 607
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df637a69d7a853150800000000000000
+      internalID: 5851735562840913661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_45
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 589
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d21d27410968330800000000000000
+      internalID: 3712813360313609509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_46
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 564
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ef0ee167c4d80c0800000000000000
+      internalID: -4571913976503271778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_47
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 554
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8cdf885bbf507e0800000000000000
+      internalID: -1799755718958659345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_48
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 562
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aed248065e38620800000000000000
+      internalID: 2775313998087580245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03444fc79da03ea90800000000000000
+      internalID: -7285967842934766544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 893
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fe07d1398a73460800000000000000
+      internalID: 7221425877319479163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_51
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 508
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d016cb2f6f8c76a50800000000000000
+      internalID: 6514396348974653709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035323b50bd1492f0800000000000000
+      internalID: -967115376696347344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_53
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 393
+        width: 174
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57133996926005890800000000000000
+      internalID: -7471465006872972939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2b7f8ad47a8f2f0800000000000000
+      internalID: -938816570317622595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7ebe6e02750ef50800000000000000
+      internalID: 6908617627211130796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ae104f67f6761b0800000000000000
+      internalID: -5663435449704519090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_57
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 409
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195ac20f1d1f5e4a0800000000000000
+      internalID: -6564574997842713199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0d170df6aa1df70800000000000000
+      internalID: 9210330110164586680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6ac2987aab67e10800000000000000
+      internalID: 2195147097113405133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_60
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 388
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22144dccf085b8d80800000000000000
+      internalID: -8247401467714715358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_61
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 367
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a529637c3280c1d0800000000000000
+      internalID: -3332520528108247639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_62
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 363
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da7aae68bf75eb00800000000000000
+      internalID: 857231734191323865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_63
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 223
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d9d9c2aacb39f10800000000000000
+      internalID: 2275369675831221540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_64
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 319
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5dd65fe9353f270800000000000000
+      internalID: 8283056081852028404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 48
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7184b1184d4180130800000000000000
+      internalID: 3533096810603825175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8043b7cad6e05c650800000000000000
+      internalID: 6252419521881781256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_67
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 8
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a79a93e7bc4a390800000000000000
+      internalID: -7807892110959871426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_68
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 175
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fe0edf373bc9b10800000000000000
+      internalID: 1989662446152904560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_69
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 210
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a271e4d8988b0f0800000000000000
+      internalID: -1100978868898551269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_70
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 273
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e8e7297e2f6cf90800000000000000
+      internalID: -6933587499881165287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_71
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 235
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f8620162aae7af0800000000000000
+      internalID: -396692636705583212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b9d7a3f99ff5170800000000000000
+      internalID: 8169522711349795721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_73
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 155
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a35b7c733e56ae0800000000000000
+      internalID: -1556588267473388949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec82d8b924dd1a830800000000000000
+      internalID: 4080786015521679566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_75
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 117
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c678b985efbb6910800000000000000
+      internalID: 1831768666035222212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b92afa6b47209fb0800000000000000
+      internalID: -4643168010948171341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7029b96b2566adba0800000000000000
+      internalID: -6063421442863951353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_78
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 60
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d898130ddcb0f8600800000000000000
+      internalID: 472609464486300045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d354a5af858fb2c10800000000000000
+      internalID: 2029989118101570877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 80
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c590b29428731ff50800000000000000
+      internalID: 6913367935703255388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931e3d2e603fdf460800000000000000
+      internalID: 7277239783801479481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_82
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 53
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3956bdb029e7389b0800000000000000
+      internalID: -5079076789014534765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_83
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 43
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9825a817bcba59e70800000000000000
+      internalID: 9121385510580408969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dfadf1b55ef07a0800000000000000
+      internalID: -6408651565185696415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_85
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 25
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d7883245640f630800000000000000
+      internalID: 3958741399646010760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_86
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274bd7e5783623540800000000000000
+      internalID: 4986157170509591666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8001f3ef91b7a10800000000000000
+      internalID: 1908147446891940038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: missAcommplish_88
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1262
+        width: 722
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab82fd8e06ee53141be9b3a531003aa3
+      internalID: -728868852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b1b12a377c40e23489f2d67c7afa4f36
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      missAcommplish_0: 4090197716619337858
+      missAcommplish_1: 2487477172352368238
+      missAcommplish_10: 7184821225178012640
+      missAcommplish_11: 1313800669038221895
+      missAcommplish_12: 2562861273532104597
+      missAcommplish_13: 5247119809521538321
+      missAcommplish_14: -7673585416668818747
+      missAcommplish_15: 2412404175126527468
+      missAcommplish_16: -325037136804342850
+      missAcommplish_17: -9048214393030969521
+      missAcommplish_18: -8741029546225190612
+      missAcommplish_19: 2635934196133434168
+      missAcommplish_2: 1539065637785586033
+      missAcommplish_20: -4786553201713124518
+      missAcommplish_21: 6271735949206847697
+      missAcommplish_22: 339894527621830510
+      missAcommplish_23: 4537361087582071394
+      missAcommplish_24: -5129580340263828451
+      missAcommplish_25: -5797416968126579878
+      missAcommplish_26: 379980948909228904
+      missAcommplish_27: -1837238603154988914
+      missAcommplish_28: -8896957423658853266
+      missAcommplish_29: 1043303244185299572
+      missAcommplish_3: 5850114402047444197
+      missAcommplish_30: 828181358010676869
+      missAcommplish_31: 9065987300870028266
+      missAcommplish_32: 7845890138317414974
+      missAcommplish_33: 2993824313891146019
+      missAcommplish_34: -1005903609499077225
+      missAcommplish_35: 4328418397227251765
+      missAcommplish_36: 6947482017360188144
+      missAcommplish_37: 4840237616866599028
+      missAcommplish_38: 2711152637932257567
+      missAcommplish_39: 8128142389665588833
+      missAcommplish_4: 720969604679298725
+      missAcommplish_40: -5685780096864127060
+      missAcommplish_41: -470941568485850581
+      missAcommplish_42: 6430595413495754444
+      missAcommplish_43: -7819902383985768483
+      missAcommplish_44: 5851735562840913661
+      missAcommplish_45: 3712813360313609509
+      missAcommplish_46: -4571913976503271778
+      missAcommplish_47: -1799755718958659345
+      missAcommplish_48: 2775313998087580245
+      missAcommplish_49: -7285967842934766544
+      missAcommplish_5: -6288876526229376582
+      missAcommplish_50: 7221425877319479163
+      missAcommplish_51: 6514396348974653709
+      missAcommplish_52: -967115376696347344
+      missAcommplish_53: -7471465006872972939
+      missAcommplish_54: -938816570317622595
+      missAcommplish_55: 6908617627211130796
+      missAcommplish_56: -5663435449704519090
+      missAcommplish_57: -6564574997842713199
+      missAcommplish_58: 9210330110164586680
+      missAcommplish_59: 2195147097113405133
+      missAcommplish_6: -5929437352923674218
+      missAcommplish_60: -8247401467714715358
+      missAcommplish_61: -3332520528108247639
+      missAcommplish_62: 857231734191323865
+      missAcommplish_63: 2275369675831221540
+      missAcommplish_64: 8283056081852028404
+      missAcommplish_65: 3533096810603825175
+      missAcommplish_66: 6252419521881781256
+      missAcommplish_67: -7807892110959871426
+      missAcommplish_68: 1989662446152904560
+      missAcommplish_69: -1100978868898551269
+      missAcommplish_7: -8794986056198545330
+      missAcommplish_70: -6933587499881165287
+      missAcommplish_71: -396692636705583212
+      missAcommplish_72: 8169522711349795721
+      missAcommplish_73: -1556588267473388949
+      missAcommplish_74: 4080786015521679566
+      missAcommplish_75: 1831768666035222212
+      missAcommplish_76: -4643168010948171341
+      missAcommplish_77: -6063421442863951353
+      missAcommplish_78: 472609464486300045
+      missAcommplish_79: 2029989118101570877
+      missAcommplish_8: -8314603840153677959
+      missAcommplish_80: 6913367935703255388
+      missAcommplish_81: 7277239783801479481
+      missAcommplish_82: -5079076789014534765
+      missAcommplish_83: 9121385510580408969
+      missAcommplish_84: -6408651565185696415
+      missAcommplish_85: 3958741399646010760
+      missAcommplish_86: 4986157170509591666
+      missAcommplish_87: 1908147446891940038
+      missAcommplish_88: -728868852
+      missAcommplish_9: -9020440120049269859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

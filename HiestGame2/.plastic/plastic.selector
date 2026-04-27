@@ -1,0 +1,4 @@
+repository "HiestGame2/HiestGame2@18968225966775@cloud"
+  path "/"
+    br "/main"
+    co "/main"

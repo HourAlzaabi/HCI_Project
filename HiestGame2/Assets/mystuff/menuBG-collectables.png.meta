@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 2861b0ba9d48c424c83275baa1af2e39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7353361349937544129
+    second: menuBG-collectables_0
+  - first:
+      213: -2621433207120519742
+    second: menuBG-collectables_1
+  - first:
+      213: -3224560919691074892
+    second: menuBG-collectables_2
+  - first:
+      213: -3600046725516464833
+    second: menuBG-collectables_3
+  - first:
+      213: 4338839918843561320
+    second: menuBG-collectables_4
+  - first:
+      213: 7320530475816482673
+    second: menuBG-collectables_5
+  - first:
+      213: 3136928034056542799
+    second: menuBG-collectables_6
+  - first:
+      213: -3001286819710780969
+    second: menuBG-collectables_7
+  - first:
+      213: -1568842368081604969
+    second: menuBG-collectables_8
+  - first:
+      213: 640512966922711685
+    second: menuBG-collectables_9
+  - first:
+      213: 735329923592122343
+    second: menuBG-collectables_10
+  - first:
+      213: -6159821698384924815
+    second: menuBG-collectables_11
+  - first:
+      213: 6077331500642919152
+    second: menuBG-collectables_12
+  - first:
+      213: -5693721468723275144
+    second: menuBG-collectables_13
+  - first:
+      213: -8571381866015127604
+    second: menuBG-collectables_14
+  - first:
+      213: 5959698183538899604
+    second: menuBG-collectables_15
+  - first:
+      213: 908975941415182208
+    second: menuBG-collectables_16
+  - first:
+      213: -2156275601163375981
+    second: menuBG-collectables_17
+  - first:
+      213: -1598268437005237116
+    second: menuBG-collectables_18
+  - first:
+      213: 7843916699424480188
+    second: menuBG-collectables_19
+  - first:
+      213: 696285007560370918
+    second: menuBG-collectables_20
+  - first:
+      213: -635704323146508815
+    second: menuBG-collectables_21
+  - first:
+      213: -1981253725468255595
+    second: menuBG-collectables_22
+  - first:
+      213: 1362047849462773229
+    second: menuBG-collectables_23
+  - first:
+      213: -4668116161203286648
+    second: menuBG-collectables_24
+  - first:
+      213: 7035001905951940275
+    second: menuBG-collectables_25
+  - first:
+      213: 8994974087527871561
+    second: menuBG-collectables_26
+  - first:
+      213: 2929036298888799799
+    second: menuBG-collectables_27
+  - first:
+      213: -1025835142543862990
+    second: menuBG-collectables_28
+  - first:
+      213: -6398055657235196698
+    second: menuBG-collectables_29
+  - first:
+      213: -686993062510197192
+    second: menuBG-collectables_30
+  - first:
+      213: 3489360029369333607
+    second: menuBG-collectables_31
+  - first:
+      213: -8367017273470485388
+    second: menuBG-collectables_32
+  - first:
+      213: -8995957278880020261
+    second: menuBG-collectables_33
+  - first:
+      213: 8310174765097787238
+    second: menuBG-collectables_34
+  - first:
+      213: -2748997451421057935
+    second: menuBG-collectables_35
+  - first:
+      213: -9019929592924851329
+    second: menuBG-collectables_36
+  - first:
+      213: -7008391675460169374
+    second: menuBG-collectables_37
+  - first:
+      213: -5558626262828546917
+    second: menuBG-collectables_38
+  - first:
+      213: -1220368599217740891
+    second: menuBG-collectables_39
+  - first:
+      213: 2584290817888534123
+    second: menuBG-collectables_40
+  - first:
+      213: -1975010557606954600
+    second: menuBG-collectables_41
+  - first:
+      213: 9182018057789558366
+    second: menuBG-collectables_42
+  - first:
+      213: 6898343296863391421
+    second: menuBG-collectables_43
+  - first:
+      213: -48475285913495562
+    second: menuBG-collectables_44
+  - first:
+      213: -4594441142749551867
+    second: menuBG-collectables_45
+  - first:
+      213: 9054955213822009259
+    second: menuBG-collectables_46
+  - first:
+      213: 9201841270326971826
+    second: menuBG-collectables_47
+  - first:
+      213: -7338535144056874338
+    second: menuBG-collectables_48
+  - first:
+      213: -605665770733909160
+    second: menuBG-collectables_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menuBG-collectables_0
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 643
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb3d1020336c0660800000000000000
+      internalID: 7353361349937544129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuBG-collectables_1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 446
+        width: 216
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd1b27136cce9bd0800000000000000
+      internalID: -2621433207120519742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuBG-collectables_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 208
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e45151374a8537a0800000000000000
+      internalID: -6398055657235196698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuBG-collectables_2
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 92
+        width: 296
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23156c0dd6af85e4581d496ac386a4d5
+      internalID: -3224560919691074892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      menuBG-collectables_0: 7353361349937544129
+      menuBG-collectables_1: -2621433207120519742
+      menuBG-collectables_10: 735329923592122343
+      menuBG-collectables_11: -6159821698384924815
+      menuBG-collectables_12: 6077331500642919152
+      menuBG-collectables_13: -5693721468723275144
+      menuBG-collectables_14: -8571381866015127604
+      menuBG-collectables_15: 5959698183538899604
+      menuBG-collectables_16: 908975941415182208
+      menuBG-collectables_17: -2156275601163375981
+      menuBG-collectables_18: -1598268437005237116
+      menuBG-collectables_19: 7843916699424480188
+      menuBG-collectables_2: -3224560919691074892
+      menuBG-collectables_20: 696285007560370918
+      menuBG-collectables_21: -635704323146508815
+      menuBG-collectables_22: -1981253725468255595
+      menuBG-collectables_23: 1362047849462773229
+      menuBG-collectables_24: -4668116161203286648
+      menuBG-collectables_25: 7035001905951940275
+      menuBG-collectables_26: 8994974087527871561
+      menuBG-collectables_27: 2929036298888799799
+      menuBG-collectables_28: -1025835142543862990
+      menuBG-collectables_29: -6398055657235196698
+      menuBG-collectables_3: -3600046725516464833
+      menuBG-collectables_30: -686993062510197192
+      menuBG-collectables_31: 3489360029369333607
+      menuBG-collectables_32: -8367017273470485388
+      menuBG-collectables_33: -8995957278880020261
+      menuBG-collectables_34: 8310174765097787238
+      menuBG-collectables_35: -2748997451421057935
+      menuBG-collectables_36: -9019929592924851329
+      menuBG-collectables_37: -7008391675460169374
+      menuBG-collectables_38: -5558626262828546917
+      menuBG-collectables_39: -1220368599217740891
+      menuBG-collectables_4: 4338839918843561320
+      menuBG-collectables_40: 2584290817888534123
+      menuBG-collectables_41: -1975010557606954600
+      menuBG-collectables_42: 9182018057789558366
+      menuBG-collectables_43: 6898343296863391421
+      menuBG-collectables_44: -48475285913495562
+      menuBG-collectables_45: -4594441142749551867
+      menuBG-collectables_46: 9054955213822009259
+      menuBG-collectables_47: 9201841270326971826
+      menuBG-collectables_48: -7338535144056874338
+      menuBG-collectables_49: -605665770733909160
+      menuBG-collectables_5: 7320530475816482673
+      menuBG-collectables_6: 3136928034056542799
+      menuBG-collectables_7: -3001286819710780969
+      menuBG-collectables_8: -1568842368081604969
+      menuBG-collectables_9: 640512966922711685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
