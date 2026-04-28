@@ -429,30 +429,21 @@ public class LevelManager : MonoBehaviourPun
     public void LoadNextLevel()
     {
         if (!PhotonNetwork.IsMasterClient) return;
-        if (isLoadingNextLevel) return;
 
-        Debug.Log("[LevelManager] LoadNextLevel called. AutomaticallySyncScene: "
-            + PhotonNetwork.AutomaticallySyncScene);
-
-        int currentLevel = GetCurrentLevelNumber();
-        int nextLevel = currentLevel + 1;
-
-        if (nextLevel > totalLevelsAvailable)
-        {
-            Debug.Log("[LevelManager] No more levels available. Going to LevelSelect.");
-            GoToLevelSelect();
-            return;
-        }
-
-        string nextScene = "Level" + nextLevel;
-        isLoadingNextLevel = true;
-
-        // Ensure scene sync is on before loading
         PhotonNetwork.AutomaticallySyncScene = true;
 
-        photonView.RPC(nameof(RPC_PrepareNextLevel), RpcTarget.All, nextScene);
-        photonView.RPC(nameof(RPC_MasterLoadNextLevel), RpcTarget.MasterClient, nextScene);
-        PhotonNetwork.SendAllOutgoingCommands();
+        string current = UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
+        string target;
+
+        switch (current)
+        {
+            case "Level1": target = "Level2"; break;
+            case "Level2": target = "Level3"; break;
+            case "Level3": target = "LevelSelect"; break;
+            default: target = "LevelSelect"; break; // safety net
+        }
+
+        PhotonNetwork.LoadLevel(target);
     }
 
     [PunRPC]

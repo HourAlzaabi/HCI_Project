@@ -7,17 +7,18 @@ public class WinScreen : MonoBehaviour
     [Header("Text")]
     public TMP_Text timeText;
     public TMP_Text starsText;
-    public TMP_Text gemsText; // 👈 NEW
+    public TMP_Text gemsText;
 
     [Header("Stars")]
     public Image[] starImages;
     public Sprite fullStar;
     public Sprite emptyStar;
+
     [Header("Audio")]
     public AudioClip showClip;
     [Range(0f, 1f)] public float volume = 1f;
-
     private AudioSource audioSource;
+
     [Header("Buttons")]
     public Button replayButton;
     public Button nextLevelButton;
@@ -26,24 +27,24 @@ public class WinScreen : MonoBehaviour
     [Header("Optional")]
     public TMP_Text nextLevelLockedText;
 
-    private void OnEnable()
-    {
-        PlayShowSound(); // 👈 NEW
-
-        Refresh();
-    }
     private void Awake()
     {
         audioSource = gameObject.AddComponent<AudioSource>();
         audioSource.playOnAwake = false;
     }
+
+    private void OnEnable()
+    {
+        PlayShowSound();
+        Refresh();
+    }
+
     private void PlayShowSound()
     {
         if (showClip != null && audioSource != null)
-        {
             audioSource.PlayOneShot(showClip, volume);
-        }
     }
+
     public void Refresh()
     {
         if (LevelManager.Instance == null) return;
@@ -52,8 +53,8 @@ public class WinScreen : MonoBehaviour
 
         UpdateTime(lm.levelTimer);
         UpdateStars(lm.earnedStars);
-        UpdateGems(lm.GetCollectibleScore()); // 👈 NEW
-        UpdateButtons(lm.earnedStars);
+        UpdateGems(lm.GetCollectibleScore());
+        UpdateButtonStates(lm.earnedStars);
     }
 
     private void UpdateTime(float timeSeconds)
@@ -73,7 +74,6 @@ public class WinScreen : MonoBehaviour
         for (int i = 0; i < starImages.Length; i++)
         {
             if (starImages[i] == null) continue;
-
             starImages[i].sprite = (i < starCount) ? fullStar : emptyStar;
         }
     }
@@ -81,32 +81,16 @@ public class WinScreen : MonoBehaviour
     private void UpdateGems(int gems)
     {
         if (gemsText != null)
-            gemsText.text = gems.ToString(); // 👈 shows number of gems
+            gemsText.text = gems.ToString();
     }
 
-    private void UpdateButtons(int starCount)
+    // Only updates interactability — does NOT wire OnClick (Inspector handles that)
+    private void UpdateButtonStates(int starCount)
     {
-        if (replayButton != null)
-        {
-            replayButton.onClick.RemoveAllListeners();
-            replayButton.onClick.AddListener(() => LevelManager.Instance.RestartLevel());
-        }
-
-        if (mainMenuButton != null)
-        {
-            mainMenuButton.onClick.RemoveAllListeners();
-            mainMenuButton.onClick.AddListener(() => LevelManager.Instance.GoToMainMenu());
-        }
-
         if (nextLevelButton != null)
         {
             bool canGoNext = starCount >= 2;
             nextLevelButton.interactable = canGoNext;
-
-            nextLevelButton.onClick.RemoveAllListeners();
-
-            if (canGoNext)
-                nextLevelButton.onClick.AddListener(() => LevelManager.Instance.LoadNextLevel());
         }
 
         if (nextLevelLockedText != null)
