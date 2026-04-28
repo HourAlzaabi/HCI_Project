@@ -9941,7 +9941,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   resumeButton: {fileID: 517827612}
-  restartButton: {fileID: 248071640}
+  restartButton: {fileID: 1565216411}
   lobbyButton: {fileID: 1111116176}
   quitButton: {fileID: 0}
   lobbyWarningPopup: {fileID: 481287416}

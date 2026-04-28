@@ -2131,7 +2131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31f613d93c9e46646a8e8b81923584b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NetworkGameManager
-  rolesData: {fileID: 0}
+  rolesData: {fileID: 11400000, guid: 74b862d428f5f4c44870f1b2e53c3ea7, type: 2}
   spawnPointP1: {fileID: 1425581237}
   spawnPointP2: {fileID: 1727653810}
 --- !u!82 &355549122
